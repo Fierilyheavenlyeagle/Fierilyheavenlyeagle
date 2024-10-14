@@ -1,8 +1,7 @@
 Icon Facebook icon Gmail icon LinkedIn
 
 <div>
-  <img alt='facebook' src='https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg?raw=true'/>
-</div>
+  [![Facebook](https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg)](https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg) &nbsp;
 
 - I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
 - I’m passionate about retrieving data from APIS and Node.js.
