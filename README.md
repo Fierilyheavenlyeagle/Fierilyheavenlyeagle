@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Quote](https://github.com/Fierilyheavenlyeagle/repository/blob/main/stoptrying.png)
+![Quote](https://github.com/Fierilyheavenlyeagle/repository/blob/main/stoptrying.jpg)
 
 <!--
 **Fierilyheavenlyeagle/Fierilyheavenlyeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
