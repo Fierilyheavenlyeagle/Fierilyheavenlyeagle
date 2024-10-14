@@ -1,9 +1,9 @@
 Icon Facebook icon Gmail icon LinkedIn
 
-*I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
-*I’m passionate about retrieving data from APIS and Node.js.
-*I’m aiming to learn bootstrap and how to use .net.
-*Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment. 
+-I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
+-I’m passionate about retrieving data from APIS and Node.js.
+-I’m aiming to learn bootstrap and how to use .net.
+-Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment. 
 
 Quote
 
