@@ -1,7 +1,8 @@
 
 # Hello Everyone, I'm Alvaro!
 
-<div align="center">
+<div align="center"> 
+  
 [![Hello Wordl!](Pixel1.gif)](https://github.com/Fierilyheavenlyeagle)
 Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [Pinterest](https://www.pinterest.com/)
 
@@ -21,7 +22,8 @@ Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [P
 - :blue_book: I’m aiming to learn bootstrap and how to use .net.
 - :musical_score: Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment.
 
-<div align="center">
+<div align="center">}
+
 ## Quote
 
 <img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
