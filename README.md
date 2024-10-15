@@ -1,8 +1,9 @@
 Icon Facebook icon Gmail icon LinkedIn
 
 
-[![Facebook](https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg)](https://www.facebook.com/alvaro.barondias.7/)) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+<div>
+<img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg"alt="facebook" width="40" height="40">
+</div>
 
 - I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
 - I’m passionate about retrieving data from APIS and Node.js.
