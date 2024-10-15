@@ -3,6 +3,7 @@ Icon Facebook icon Gmail icon LinkedIn
 
 <div>
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg"alt="facebook" width="40" height="40">
+<img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/linkedin.svg" alt="linkedin" width="40" height="40">
 </div>
 
 - I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
