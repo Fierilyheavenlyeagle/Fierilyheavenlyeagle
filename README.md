@@ -17,11 +17,13 @@ Icon Facebook icon Gmail icon LinkedIn
 - Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment. 
 
 Quote
+<img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
+My Tech Stack}
 
-My Tech Stack
+[![Python,C#,JavaScript,Node.js](https://skillicons.dev/icons?i=Python-Dark,CS,js,nodejs)](https://skillicons.dev)
 
 When I’m AFk
-<img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
+
 
 <!--
 **Fierilyheavenlyeagle/Fierilyheavenlyeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
