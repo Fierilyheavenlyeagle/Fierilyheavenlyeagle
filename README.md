@@ -1,7 +1,7 @@
 
 # Hello Everyone, I'm Alvaro!
 
-[![Hello Wordl!]([assets/](blob/main/facebook.svg)(https://github.com/Fierilyheavenlyeagle)
+[![Hello Wordl!](blob/main/facebook.svg)](https://github.com/Fierilyheavenlyeagle)
 Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [Pinterest](https://www.pinterest.com/)
 
 <a href="https://www.facebook.com/alvaro.barondias.7">
