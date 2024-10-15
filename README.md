@@ -20,7 +20,10 @@ Quote
 <img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
 My Tech Stack}
 
-[![Python , C# , JavaScript , Node.js](https://skillicons.dev/icons?i=python,c#,js,nodejs)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,csharp,js,nodejs" alt="Python, C#, JavaScript, Node.js" />
+</a>
+
 
 When I’m AFk
 
