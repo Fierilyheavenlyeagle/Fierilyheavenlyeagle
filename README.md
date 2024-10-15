@@ -11,9 +11,9 @@ Icon Facebook icon Gmail icon LinkedIn
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/gmail.svg" alt="gmail" width="40" height="40">
 </a>
 
-- I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
-- I’m passionate about retrieving data from APIS and Node.js.
-- I’m aiming to learn bootstrap and how to use .net.
+- :man_office_worker: I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
+- :star2: I’m passionate about retrieving data from APIS and Node.js.
+- :blue_book: I’m aiming to learn bootstrap and how to use .net.
 - :musical_score: Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment. 
 
 Quote
