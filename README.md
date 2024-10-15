@@ -1,5 +1,5 @@
 
-# Hello Everyone, I'm Alvaro!
+#  Hello Everyone, I'm Alvaro!
 
 <div align="center"> 
   
@@ -15,6 +15,7 @@ Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [P
 <a href="mailto:alvarocerpabaron0502@gmail.com?subject=Hello%20Alvaro,%20from%20Github">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/gmail.svg" alt="gmail" width="40" height="40">
 </a>
+
 </div>
 
 - :man_office_worker: I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
@@ -22,7 +23,7 @@ Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [P
 - :blue_book: I’m aiming to learn bootstrap and how to use .net.
 - :musical_score: Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment.
 
-<div align="center">}
+<div align="center">
 
 ## Quote
 
