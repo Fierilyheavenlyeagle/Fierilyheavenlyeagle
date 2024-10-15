@@ -3,7 +3,7 @@ Icon Facebook icon Gmail icon LinkedIn
 
 <a href="https://www.facebook.com/alvaro.barondias.7">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg"alt="facebook" width="40" height="40">
-</a>
+</a> 
 <a href="www.linkedin.com/in/alvaro-cerpa-barón">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/linkedin.svg" alt="linkedin" width="40" height="40">
 </a>
