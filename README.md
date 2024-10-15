@@ -7,7 +7,7 @@ Icon Facebook icon Gmail icon LinkedIn
 <a href="https://www.linkedin.com/in/alvaro-cerpa-baron">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/linkedin.svg" alt="linkedin" width="40" height="40">
 </a>
-<a href="alvarocerpabaron0502@gmail.com">
+<a href="mailto:alvarocerpabaron0502@gmail.com?subject=Hello%20Alvaro,%20from%20Github">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/gmail.svg" alt="gmail" width="40" height="40">
 </a>
 
