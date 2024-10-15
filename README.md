@@ -18,6 +18,7 @@ Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [P
 
 </div>
 
+
 - :man_office_worker: I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
 - :star2: I’m passionate about retrieving data from APIS and Node.js.
 - :blue_book: I’m aiming to learn bootstrap and how to use .net.
