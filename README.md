@@ -17,8 +17,10 @@ Icon Facebook icon Gmail icon LinkedIn
 - Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment. 
 
 Quote
+
 <img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
-My Tech Stack}
+
+My Tech Stack
 
 [![Python , C#](https://skillicons.dev/icons?i=python,c#)](https://skillicons.dev) [![JavaScript, Node.js](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
