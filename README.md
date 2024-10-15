@@ -22,15 +22,15 @@ Background GIF by [Behance](https://pinterest.com/pin/259660734759898114/) on [P
 - :musical_score: Interesting facts: Currently studying Chinese, My Favorite Author is Julio Verne and I have a great appreciation for the natural environment.
 
 <div align="center">
-##Quote
+## Quote
 
 <img alt="Quote" src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/stoptrying.jpg?raw=true" />
 
-##My Tech Stack
+## My Tech Stack
 
 [![Python , C#](https://skillicons.dev/icons?i=python,c#)](https://skillicons.dev) [![JavaScript, Node.js](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
-##When I’m AFk
+## When I’m AFk
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
