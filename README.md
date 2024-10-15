@@ -1,11 +1,15 @@
 Icon Facebook icon Gmail icon LinkedIn
 
 
-<div>
+<a href="https://www.facebook.com/alvaro.barondias.7">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/facebook.svg"alt="facebook" width="40" height="40">
+</a>
+<a href="www.linkedin.com/in/alvaro-cerpa-barón">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/linkedin.svg" alt="linkedin" width="40" height="40">
+</a>
+<a href="alvarocerpabaron0502@gmail.com">
 <img src="https://github.com/Fierilyheavenlyeagle/Fierilyheavenlyeagle/blob/main/gmail.svg" alt="gmail" width="40" height="40">
-</div>
+</a>
 
 - I’m currently working in Olva Courier, which was awarded the PERU quality prime 2024 by the Latin American Quality Institute (LAQI).
 - I’m passionate about retrieving data from APIS and Node.js.
